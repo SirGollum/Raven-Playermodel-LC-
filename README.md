@@ -13,7 +13,7 @@ https://sketchfab.com/3d-models/teen-titans-raven-3a93d2a0b0af4131bd3787521fc2d2
 I've made some changes to the model, Specifically the head.
 I removed Ravens hood and colored her hair and skin, I also drew her some Eyebrows and her iconic Gem
 
-![Raven Preview](https://imgur.com/a/hTN5NWt)
+![Raven Preview]([https://imgur.com/a/hTN5NWt](https://imgur.com/gallery/hTN5NWt))
 
 ### dependencies
 you'll need BepInEx, MoreSuits and ModelReplacementAPI
